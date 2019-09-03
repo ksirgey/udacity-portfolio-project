@@ -1,0 +1,70 @@
+
+body {
+  font-family: monospace sans-serif;
+}
+
+.logo {
+  width: 75px;
+  height: 75px;
+}
+
+.head {
+  color: #2d3c49;
+  padding-top: 20px;
+}
+
+.name-and-title {
+  float: right;
+}
+
+.job-title {
+  font-size: 20px;
+}
+
+.font {
+  font-family: serif;
+}
+.after-hr {
+  padding-top: 20px;
+}
+
+.main-image {
+  width: 100%;
+}
+
+.intro-title {
+  color: #2d3c49;
+}
+
+.intro {
+  color: #2d3c49;
+  font-size: 20px;
+}
+
+.intro-padding {
+  padding-top: 20px;
+}
+
+.projects-section {
+  padding-top: 20px;
+}
+
+.projects-title {
+  padding-top: 40px;
+  padding-left: 12px;
+}
+
+.project {
+  text-align: center;
+}
+
+.text {
+  text-decoration: none;
+  color: #02b3e4;
+  font-size: 20px;
+}
+
+.img-responsive {
+  width: auto;
+  height: 200px;
+}
